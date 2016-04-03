@@ -1,0 +1,2 @@
+# Git
+Fjerdingen prosjekt uke. 
